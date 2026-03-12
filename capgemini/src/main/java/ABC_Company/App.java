@@ -30,7 +30,7 @@ public class App {
         final int[] x = new int[GAME_UNITS];
         final int[] y = new int[GAME_UNITS];
 
-        int bodyParts = 6;
+        int bodyParts = 6;//hello changes are made
         int applesEaten;
         int appleX;
         int appleY;
