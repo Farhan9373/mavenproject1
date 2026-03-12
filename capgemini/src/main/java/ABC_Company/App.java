@@ -32,7 +32,7 @@ public class App {
 
         int bodyParts = 6;//hello changes are made
         int applesEaten;
-        int appleX;
+        int appleX;//hello halku
         int appleY;//hello 
         char direction = 'R';
         boolean running = false;
